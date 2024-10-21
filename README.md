@@ -64,7 +64,7 @@ To run the test automation, you can simply run all the tests located  at the `sr
 because the ParaBank application is already running on a web server. 
 
 But if you would like to run only one test case, you can open the
-[`Signup.feature`]([https://github.com/AhmedMAbuzaid1998/parabank/blob/main/src/main/resources/Features/01_SignUp.feature](https://github.com/Khaled-Ayoub/DEPI-Graduation-Project-SWD7-M1e./blob/master/src/main/resources/Features/01_SignUp.feature))
+[`Signup.feature`](https://github.com/Khaled-Ayoub/DEPI-Graduation-Project-SWD7-M1e./blob/master/src/main/resources/Features/01_SignUp.feature)
 file as an example, and run its tests.
 
 Once you run the tests, Selenium Webdriver will open a browser and execute the steps defined on the test file.
