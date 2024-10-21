@@ -95,7 +95,7 @@
 									"});\r",
 									"jsonData=pm.response.json();\r",
 									""
-								],
+								], 
 								"type": "text/javascript",
 								"packages": {}
 							}
