@@ -57,7 +57,7 @@ The goal is to develop an automated testing framework for thorough and efficient
 - javafaker 1.0.2
 
 #### Overview video :
-[Link](https://drive.google.com/file/d/1SYusmVDIhtnHU-oOyQRP4SVEugp-OS9o/view?usp=drive_link)
+- [Link](https://drive.google.com/file/d/1SYusmVDIhtnHU-oOyQRP4SVEugp-OS9o/view?usp=drive_link)
 
 ### Usage
 To use this project, clone it on your machine and open it on your IDE.
